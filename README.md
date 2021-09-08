@@ -1,5 +1,4 @@
-# Coursera-test
-This is Coursera test repository
+
 <!DOCTYPE html>
 <html  >
   <head>
